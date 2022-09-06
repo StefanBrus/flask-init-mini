@@ -49,5 +49,5 @@ docker exec flask-app coverage report
 
 Stop container
 ```bash
-docker stop flask-app 
+docker stop flask-app
 ```
